@@ -3,9 +3,9 @@
 This is an E-Commerce backend application built to practice and demonstrate backend development concepts using Spring Boot.
 
 ## 🚀Features.
-   -User Management (CRUD)
-   -Product Management (CRUD)
-   -Authentication & Security
+   ##-User Management (CRUD)
+   ##-Product Management (CRUD)
+   ##-Authentication & Security
 
 
 ## 🛠️Technologies Used.
