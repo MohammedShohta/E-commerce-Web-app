@@ -20,7 +20,8 @@ This is an E-Commerce backend application built to practice and demonstrate back
    - Add roles (Admin / User)
    - Product categories
    - Order & checkout system
-   ⚡ New features will be added continuously as I learn and improve my skills.
+   
+##⚡ New features will be added continuously as I learn and improve my skills.
 
 
    
