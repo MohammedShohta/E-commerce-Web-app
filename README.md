@@ -6,6 +6,7 @@ This is an E-Commerce backend application built to practice and demonstrate back
    - User Management (CRUD)
    - Product Management (CRUD)
    - Authentication & Security
+   - JWT Authentication Filter 
 
 
 ## 🛠️Technologies Used.
